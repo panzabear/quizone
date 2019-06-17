@@ -1,0 +1,2 @@
+module QuizoneHelper
+end
